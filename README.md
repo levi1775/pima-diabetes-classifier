@@ -1,7 +1,4 @@
-Here’s a complete and **visually structured `README.md`** file for your GitHub repo based on the Pima Indians Diabetes Dataset project.
 
-
-```markdown
 # 🩺 Pima Indians Diabetes Classification
 
 This repository explores classification of diabetes diagnosis using the **Pima Indians Diabetes Dataset**. Two models are implemented and compared:
@@ -11,10 +8,11 @@ This repository explores classification of diabetes diagnosis using the **Pima I
 
 We evaluate their performance on multiple metrics and apply **pruning techniques** to mitigate overfitting in the Decision Tree.
 
+---
 
 ## 📂 Repository Structure
 
-```
+
 
 pima-diabetes-classification/
 │
@@ -38,6 +36,7 @@ pima-diabetes-classification/
 
 ````
 
+---
 
 ## 🧬 Dataset Overview
 
@@ -54,6 +53,7 @@ pima-diabetes-classification/
   - Age
 - **Target**: `Outcome` (1 = Diabetic, 0 = Non-Diabetic)
 
+---
 
 ## 🛠️ Setup Instructions
 
@@ -70,7 +70,7 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ````
 
-
+---
 
 ## 🔍 Model Training & Evaluation
 
