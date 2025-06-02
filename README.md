@@ -56,7 +56,7 @@ pima-diabetes-classification/
 
 ## 🛠️ Setup Instructions
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/yourusername/pima-diabetes-classification.git
 cd pima-diabetes-classification
