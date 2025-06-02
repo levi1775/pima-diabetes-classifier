@@ -34,7 +34,6 @@ pima-diabetes-classification/
 ├── README.md                       # Project overview and usage
 └── requirements.txt                # Python dependencies
 
-````
 
 ---
 
@@ -141,9 +140,3 @@ BTech in Material Science • Passion for Machine Learning
 
 This project is licensed under the MIT License.
 
-```
-
----
-
-Let me know if you'd like me to auto-generate this into files (including a sample `requirements.txt`) or want it adjusted for your name, GitHub handle, or links.
-```
