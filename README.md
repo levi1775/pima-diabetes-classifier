@@ -129,7 +129,7 @@ To address **overfitting** in Decision Trees:
 ## 🧠 Author
 
 **Your Name**
-BTech in Material Science • Passion for Machine Learning
+B.Tech in Metallurgical Engineering and Material Science • Passion for Machine Learning
 📧 [vedantpimple1775@gmail.com](mailto:vedantpimple1775@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/vedant-pimple-523a65228/) | [GitHub](https://github.com/levi1775)
 
