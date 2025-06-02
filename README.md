@@ -58,7 +58,7 @@ pima-diabetes-classification/
 
 bash
 # Clone the repository
-git clone https://github.com/yourusername/pima-diabetes-classification.git
+git clone https://github.com/levi1775/pima-diabetes-classification.git
 cd pima-diabetes-classification
 
 # Create a virtual environment (optional but recommended)
