@@ -130,8 +130,8 @@ To address **overfitting** in Decision Trees:
 
 **Your Name**
 BTech in Material Science • Passion for Machine Learning
-📧 [your.email@example.com](mailto:your.email@example.com)
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 [vedantpimple1775@gmail.com](mailto:vedantpimple1775@gmail.com)
+🔗 [LinkedIn](linkedin.com/in/vedant-pimple-523a65228/) | [GitHub](https://github.com/levi1775)
 
 ---
 
